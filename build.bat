@@ -1,13 +1,9 @@
-REM Mr. A. Maganlal, M Bowditch
-REM Computer Science 2B 2018-2023
-REM This batch file is setup to be more robust than previous versions.
 
 REM Turn echo off and clear the screen.
 @echo off
 cls
 
-REM Good batch file coding practice.
-setlocal enabledelayedexpansion
+
 
 REM Paths for JDK
 REM Remember to change JAVA_HOME to the correct path on your system
